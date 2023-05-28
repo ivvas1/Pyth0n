@@ -1,19 +1,19 @@
 ПОСЛЕ ПЕРВОГО ДЕДЛАЙНА (указаны баллы без деления на 2):
 02.1.DataStructures[hard]:
-	- [x] alphabet: 10
+	alphabet: 10
 	
 03.1.FunctionsStringsIO:
-	- [x] git_log: 5
-	- [x] input_: 10
-	- [x] merge_lists_3: 10
+	git_log: 5
+	input_: 10
+	merge_lists_3: 10
 	
 04.2.Bytecode:
-	- [x] arg_binding: 20
-	- [x] byteme: 10
-	- [x] codeops: 10
+	arg_binding: 20
+	byteme: 10
+	codeops: 10
 
 04.3.HW1:
-	- [x] VM: 284
+	VM: 284
 
 
 
