@@ -1,21 +1,24 @@
 ПОСЛЕ ПЕРВОГО ДЕДЛАЙНА (указаны баллы без деления на 2):
 02.1.DataStructures[hard]:
-	alphabet: 10
+	alphabet: 10  
 	
 03.1.FunctionsStringsIO:
-	git_log: 5
-	input_: 10
-	merge_lists_3: 10
+	git_log: 5  
+	input_: 10  
+	merge_lists_3: 10  
 	
 04.2.Bytecode:
-	arg_binding: 20
-	byteme: 10
-	codeops: 10
+	arg_binding: 20  
+	byteme: 10  
+	codeops: 10  
 
 04.3.HW1:
-	VM: 284
+	VM: 284  
 
-
+С практики:
+	Произведение строк в rle форме: 10  
+	Строки подаются в виде list[tuple] в формате (x, y), где x - количество подряд идущих у. Нужно вернуть произведение расшифрованных строк в rle форме,
+	а если их длины не равны, вернуть None.  
 
 
 
